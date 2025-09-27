@@ -6,7 +6,7 @@ Manage accounts, due payments, resolve complaints and keep the community up-to-d
 Easy for the management committee and residents.
 
 ### [Deployed website link](https://esociety-fdbd.onrender.com)
-
+### [Demo video](https://www.linkedin.com/posts/abhijeetpandit_developed-a-community-management-web-application-activity-6779710037343387648-mhRK?utm_source=share&utm_medium=member_desktop)
 
 ## User types
 
@@ -55,6 +55,11 @@ Provide flexibility to members for managing and updating registered member detai
 2. `node server.js`
 
 At this point, you have all the necessary files to run the projet. You will still need to configure your MongoDB URI & Stripe (optional) in .env file.
+
+## Contributions
+<a href="https://github.com/abhijeetpandit7/e-society/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abhijeetpandit7/e-society" />
+</a>
 
 <img src= 'https://user-images.githubusercontent.com/65078610/112977547-d114cd00-9173-11eb-9768-8dc29a38a98d.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977718-00c3d500-9174-11eb-8271-193384b88b5c.png' width="1200">
