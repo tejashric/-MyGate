@@ -6,7 +6,7 @@ Manage accounts, due payments, resolve complaints and keep the community up-to-d
 Easy for the management committee and residents.
 
 ### [Deployed website link](https://esociety-fdbd.onrender.com)
-### [Demo video](https://www.linkedin.com/posts/abhijeetpandit_developed-a-community-management-web-application-activity-6779710037343387648-mhRK?utm_source=share&utm_medium=member_desktop)
+
 
 ## User types
 
